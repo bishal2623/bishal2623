@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/bishal2623?template=classic&config.timezone=Asia/Kolkata" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bishal2623&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bishalsaha2623&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderOggy78&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
