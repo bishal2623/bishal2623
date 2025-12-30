@@ -72,9 +72,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
 
+
 ## 📊 GitHub Stats
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bishal2623&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bishalsaha2623&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderOggy78&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=bishal2623&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=bishal2623&theme=gotham&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bishal2623&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
