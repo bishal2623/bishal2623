@@ -75,12 +75,10 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api?username=bishal2623&theme=radical&hide_border=true)
 
+![](https://nirzak-streak-stats.vercel.app/?user=bishal2623&theme=radical&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api?username=bishal2623&theme=tokyonight&hide_border=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=bishal2623&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bishal2623&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bishal2623&theme=radical&hide_border=true&layout=compact)
 
 
