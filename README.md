@@ -75,5 +75,5 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/bishal2623" alt="GitHub Contributions"/>
+  <img src="https://metrics.lecoq.io/bishal2623?template=classic&config.timezone=Asia/Kolkata" />
 </p>
