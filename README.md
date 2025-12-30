@@ -2,7 +2,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me :
 
 - 🔐 Cybersecurity, Ethical Hacking & Open Source Contributor  
 - 🛡️ Security Engineer at **Shield Technology**  
@@ -71,3 +71,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bishal2623&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishal2623&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
