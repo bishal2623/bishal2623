@@ -77,6 +77,5 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/bishal2623?template=classic&config.timezone=Asia/Kolkata" />
+  <img src="https://ghchart.rshah.org/bishal2623" alt="GitHub Contribution Graph" />
 </p>
-
