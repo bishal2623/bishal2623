@@ -74,8 +74,7 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-
-
 <p align="center">
-  <img src="https://metrics.lecoq.io/bishal2623?template=terminal&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia/Kolkata" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bishal2623&show_icons=true&theme=dark&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=bishal2623&theme=dark&hide_border=true" height="170"/>
 </p>
