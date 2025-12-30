@@ -12,7 +12,7 @@
 - 📜 Certified Cybersecurity Associate — **Cisco**
 
 ---
-<h2 align="center">🌐 Socials</h2>
+## 🌐 Socials</h2>
 
 <p align="center">
   <a href="https://instagram.com/https://www.instagram.com/bishal._.26/">
