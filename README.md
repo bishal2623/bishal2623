@@ -74,7 +74,11 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![](https://metrics.lecoq.io/bishal2623?template=classic&config.timezone=Asia/Kolkata)
+![Repos](https://img.shields.io/badge/Public%20Repos-dynamic?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/github/followers/bishal2623?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/bishal2623?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/bishal2623?style=for-the-badge)
+
 
 
 ## 🏆 GitHub Trophies
