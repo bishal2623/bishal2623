@@ -82,8 +82,7 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=bishal2623&theme=tokyonight&no-frame=true&no-bg=true&column=6)
-
+![](https://github-profile-trophy.vercel.app/?username=bishal2623&theme=github_dark&no-frame=true&margin-w=8)
 
 
 ### 🔝 Top Contributed Repositories
