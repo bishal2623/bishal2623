@@ -74,10 +74,12 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![Repos](https://img.shields.io/badge/Public%20Repos-dynamic?style=for-the-badge&logo=github)
-![Followers](https://img.shields.io/github/followers/bishal2623?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/bishal2623?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/bishal2623?style=for-the-badge)
+![](https://github-readme-stats.vercel.app/api?username=bishal2623&theme=gotham)
+
+![](https://nirzak-streak-stats.vercel.app/?user=bishal2623&theme=gotham)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bishal2623&theme=gotham&layout=compact)
+
 
 
 
