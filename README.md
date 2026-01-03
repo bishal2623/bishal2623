@@ -81,15 +81,12 @@ Here are some ideas to get you started:
 
 
 
-
-
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=bishal2623&theme=radical&no-frame=true&no-bg=true&margin-w=8)
+![](https://github-profile-trophy.vercel.app/?username=bishal2623&theme=nightowl&no-frame=true&no-bg=true&margin-w=8)
 
 
 
-### 🔝 Top Contributed Repositories
+## 🔝 Top Contributed Repositories
 
-![](https://github-contributor-stats.vercel.app/api?username=bishal2623&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
+![](https://github-contributor-stats.vercel.app/api?username=bishal2623&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
