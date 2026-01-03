@@ -87,7 +87,5 @@ Here are some ideas to get you started:
 
 ### 🔝 Top Contributed Repositories
 
-![](https://github-contributor-stats.vercel.app/api?username=bishal2623&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-
+![](https://github-contributor-stats.vercel.app/api?username=bishal2623&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
