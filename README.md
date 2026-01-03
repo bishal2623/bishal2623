@@ -74,11 +74,9 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=bishal2623&theme=gotham)
-
-![](https://nirzak-streak-stats.vercel.app/?user=bishal2623&theme=gotham)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bishal2623&theme=gotham&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=bishal2623&theme=tokyonight)
+![](https://nirzak-streak-stats.vercel.app/?user=bishal2623&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bishal2623&theme=tokyonight&layout=compact)
 
 
 
