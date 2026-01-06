@@ -95,14 +95,3 @@ Here are some ideas to get you started:
 
 
 
-
-🔹 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishal2623&show_icons=true&theme=nightowl)
-
-🔹 Streak Stats
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=bishal2623&theme=nightowl)
-
-🔹 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishal2623&layout=compact&theme=nightowl)
-
