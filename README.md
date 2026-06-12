@@ -258,7 +258,6 @@ Engaged in a structured, production-focused software engineering practice — bu
 </p>
 
 ---
-
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -268,7 +267,6 @@ Engaged in a structured, production-focused software engineering practice — bu
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/bishal2623/bishal2623/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
 ## Current Focus
 
 ```yaml
