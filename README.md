@@ -186,6 +186,11 @@ Engaged in a structured, production-focused software engineering practice — bu
 <p align="center">
   <img src="https://img.shields.io/badge/IBM-Web%20Development%20Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
+<p align="center"><strong>OPSWAT</strong></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OPSWAT-Introduction%20to%20Critical%20Infrastructure%20Protection-6d28d9?style=for-the-badge" />
+</p>
 
 <p align="center"><strong>Cisco Networking Academy</strong></p>
 
