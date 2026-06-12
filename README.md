@@ -96,45 +96,37 @@ I am drawn to the intersection of **software engineering** and **applied AI** �
 </div>
 
 ---
+### 📂 Featured Projects
 
-## Featured Projects
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚖️ <a href="https://github.com/bishal2623/Legiflow">LegiFlow</a></h4>
+      <p>AI-powered legal intelligence platform that simplifies complex legal documents, highlights risky clauses, provides ready-to-use agreements, and offers structured access to Indian legal resources.</p>
+      <code>Next.js</code> <code>TypeScript</code> <code>Firebase</code> <code>AI</code>
+    </td>
 
-<details>
-<summary><strong>🔷 PricePulse — Full-Stack Price Tracking Application</strong></summary>
+    <td width="50%" valign="top">
+      <h4>🎯 <a href="#">IIT Bombay Techfest 2026</a></h4>
+      <p>Designed and developed an editorial-style event landing page with interactive UI, responsive layouts, and modern frontend engineering practices.</p>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+    </td>
+  </tr>
 
-<br/>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 <a href="#">IIT Bombay Techfest 2025</a></h4>
+      <p>Built a custom event website featuring a futuristic terminal-inspired design, performance optimizations, and mobile-first responsiveness.</p>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+    </td>
 
-**Problem:** Tracking product prices across Amazon and Flipkart manually is tedious. I wanted to build a tool that automates this — scraping prices on demand, storing history, and surfacing trends through a clean dashboard.
-
-**Solution:** A full-stack web application with a FastAPI backend that handles scraping, data persistence, and a REST API, paired with a React frontend for browsing products, viewing price trends, and managing scraping jobs. This was my most complete project to date — I built it end-to-end across multiple phases, learning something new at every layer.
-
-**What I learned:** How to design a relational schema and manage migrations, how to structure a FastAPI application with routers and background tasks, how Selenium-based scraping works under real-world anti-bot conditions, and how to connect a React frontend to a backend API with proper auth handling.
-
-<div align="center">
-
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | FastAPI · PostgreSQL · SQLAlchemy · Alembic · BeautifulSoup · Selenium · React · Vite · Tailwind CSS · Recharts · Axios |
-| **Scope** | Multi-platform scraper (Amazon + Flipkart) · Background job queue · Paginated product APIs |
-| **Engineering decisions** | Async background scraping to avoid blocking · Alembic for repeatable migrations · JWT auth for protected routes |
-| **Security** | JWT authentication · Hashed passwords · Protected routes · 401 auto-redirect handling |
-| **Learning outcomes** | Full-stack ownership, ORM design, scraper debugging, React state management, API integration |
-| **Repository** | [github.com/bishal2623](https://github.com/bishal2623) |
-
-</div>
-
-**Key implementation details:**
-- Backend built in four phases: schema design → scraper engine → REST API → auth layer
-- Scraper engine targets both Amazon and Flipkart with dedicated parsers; Flipkart required significant debugging due to dynamic rendering
-- Frontend built from scratch with Vite + Tailwind: custom component library (Button, Badge, Spinner, Skeleton), Sidebar/Topbar layout, and three pages — Products, Analytics, Scraper
-- Analytics page uses Recharts for price history time-series charts
-- Scraper page supports live job polling and run history
-
-</details>
-
-
-
----
+    <td width="50%" valign="top">
+      <h4>🤖 Agentic AI Workflows</h4>
+      <p>Experimented with Claude API, MCP tooling, and agentic automation workflows to build AI-assisted developer productivity systems.</p>
+      <code>Python</code> <code>Claude API</code> <code>MCP</code> <code>AI Agents</code>
+    </td>
+  </tr>
+</table>
 
 ## Experience
 
