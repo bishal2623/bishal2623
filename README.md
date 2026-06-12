@@ -96,38 +96,27 @@ I am drawn to the intersection of **software engineering** and **applied AI** �
 </div>
 
 ---
-### 📂 Featured Projects
+## 📂 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚖️ <a href="https://github.com/bishal2623/Legiflow">LegiFlow</a></h4>
-      <p>AI-powered legal intelligence platform that simplifies complex legal documents, highlights risky clauses, provides ready-to-use agreements, and offers structured access to Indian legal resources.</p>
-      <code>Next.js</code> <code>TypeScript</code> <code>Firebase</code> <code>AI</code>
-    </td>
+### ⚖️ LegiFlow
+AI-powered legal intelligence platform that simplifies complex legal documents, highlights risky clauses, provides ready-to-use agreements, and offers structured access to Indian legal resources.
 
-    <td width="50%" valign="top">
-      <h4>🎯 <a href="#">IIT Bombay Techfest 2026</a></h4>
-      <p>Designed and developed an editorial-style event landing page with interactive UI, responsive layouts, and modern frontend engineering practices.</p>
-      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
-    </td>
-  </tr>
+`Next.js` `TypeScript` `Firebase` `AI`
 
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚀 <a href="#">IIT Bombay Techfest 2025</a></h4>
-      <p>Built a custom event website featuring a futuristic terminal-inspired design, performance optimizations, and mobile-first responsiveness.</p>
-      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
-    </td>
+---
 
-    <td width="50%" valign="top">
-      <h4>🤖 Agentic AI Workflows</h4>
-      <p>Experimented with Claude API, MCP tooling, and agentic automation workflows to build AI-assisted developer productivity systems.</p>
-      <code>Python</code> <code>Claude API</code> <code>MCP</code> <code>AI Agents</code>
-    </td>
-  </tr>
-</table>
 
+### 🎯 IIT Bombay Techfest 2026
+Designed and developed an editorial-style event landing page with interactive UI, responsive layouts, and modern frontend engineering practices.
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+### 🤖 Agentic AI Workflows
+Experimented with Claude API, MCP tooling, and agentic automation workflows to build AI-assisted developer productivity systems.
+
+`Python` `Claude API` `MCP` `AI Agents`
 ## Experience
 
 <div align="center">
