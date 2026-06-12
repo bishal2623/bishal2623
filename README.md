@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4f46e5,100:7c3aed&height=200&section=header&text=Bishal%20Saha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20%E2%80%A2%20IIT%20Jodhpur%20%E2%80%A2%20Software%20Engineering%20%7C%20AI%2FML%20%7C%20Full%20Stack&descSize=16&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4f46e5,100:7c3aed&height=200&section=header&text=Bishal%20Saha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20PCU%20%E2%80%A2%20BS%20IIT%20Jodhpur%20%E2%80%A2%20Software%20Engineering%20%7C%20AI%2FML%20%7C%20Full%20Stack&descSize=16&descAlignY=58&animation=fadeIn" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=B.Tech+Student+%40+IIT+Jodhpur;Software+Engineering+%7C+AI%2FML+%7C+Full+Stack;Building+real+projects+to+learn+by+doing;Open+to+SDE+%26+AI%2FML+Internships" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=B.Tech+Computer+Engineering+%40+PCU;BS+Applied+AI+%26+Data+Science+%40+IIT+Jodhpur;Software+Engineering+%7C+AI%2FML+%7C+Full+Stack;Open+to+SDE+%26+AI%2FML+Internships;Software+Engineering+%7C+AI%2FML+%7C+Full+Stack;Building+real+projects+to+learn+by+doing;Open+to+SDE+%26+AI%2FML+Internships" alt="Typing SVG" />
   </a>
 </p>
 
