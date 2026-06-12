@@ -9,9 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4f46e5,100:7c3aed&height=200&section=header&text=Bishal%20Saha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20PCU%20%E2%80%A2%20BS%20IIT%20Jodhpur%20%E2%80%A2%20Software%20Engineering%20%7C%20AI%2FML%20%7C%20Full%20Stack&descSize=16&descAlignY=58&animation=fadeIn" />
-  <img src="https://img.shields.io/badge/Year-2nd%20Year-4f46e5?style=flat-square&logo=book&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-SDE%20%2F%20AI%2FML%20%2F%20Full%20Stack-7c3aed?style=flat-square&logo=sparkles&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4f46e5,100:7c3aed&height=200&section=header&text=Bishal%20Saha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=B.Tech PCU • BS IIT Jodhpur • Software Engineering | AI/ML | Full Stack
+ <img src="https://img.shields.io/badge/B.Tech-PCU-6d28d9?style=flat-square&logo=graduation-cap&logoColor=white" />
+<img src="https://img.shields.io/badge/BS-IIT%20Jodhpur-4f46e5?style=flat-square&logo=book&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-SDE%20%2F%20AI%2FML%20%2F%20Full%20Stack-7c3aed?style=flat-square&logo=sparkles&logoColor=white" />
 </p>
 
 <p align="center">
