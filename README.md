@@ -1,97 +1,329 @@
-## Hi there 👋
-
----
-
-## 🙋‍♂️ About Me :
-
-- 🔐 Cybersecurity, Ethical Hacking & Open Source Contributor  
-- 🛡️ Security Engineer at **Shield Technology**  
-- 🏆 6× Hackathon Participant  
-- 🎓 Campus Ambassador at **PhysicsWallah**  
-- 🌍 Open Source Contributor at **Elite Coders Winter of Code (ECWoC)**  
-- 📜 Certified Cybersecurity Associate — **Cisco**
-
----
-## 🌐 Socials</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4f46e5,100:7c3aed&height=200&section=header&text=Bishal%20Saha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20%E2%80%A2%20IIT%20Jodhpur%20%E2%80%A2%20Software%20Engineering%20%7C%20AI%2FML%20%7C%20Full%20Stack&descSize=16&descAlignY=58&animation=fadeIn" />
+</p>
 
 <p align="center">
-  <a href="https://instagram.com/https://www.instagram.com/bishal._.26/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/bishal-saha-934484378/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:bishalsaha2623@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=B.Tech+Student+%40+IIT+Jodhpur;Software+Engineering+%7C+AI%2FML+%7C+Full+Stack;Building+real+projects+to+learn+by+doing;Open+to+SDE+%26+AI%2FML+Internships" alt="Typing SVG" />
   </a>
 </p>
 
-
-<!--
-**bishal2623/bishal2623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 💻 Tech Stack
-
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-  <!-- Tools / Platforms -->
-  <img src="https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
-
-  <!-- Cloud & Infra -->
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-  <!-- Dev Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-  <!-- Data / ML -->
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/B.Tech-IIT%20Jodhpur-6d28d9?style=flat-square&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Year-2nd%20Year-4f46e5?style=flat-square&logo=book&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-SDE%20%2F%20AI%2FML%20%2F%20Full%20Stack-7c3aed?style=flat-square&logo=sparkles&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/📍%20IIT%20Jodhpur%2C%20Rajasthan%2C%20India-1e1b4b?style=flat-square&logoColor=white" />
+</p>
 
-## 📊 GitHub Stats
+<p align="center">
+  <a href="https://www.linkedin.com/in/bishal-saha-iitj/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/bishal2623">
+    <img src="https://img.shields.io/badge/GitHub-bishal2623-0f0f23?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=bishal2623&theme=nightowl)
-![](https://nirzak-streak-stats.vercel.app/?user=bishal2623&theme=nightowl)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bishal2623&theme=nightowl&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bishal2623&style=flat-square&color=6d28d9&label=Profile+Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/bishal2623?style=flat-square&color=4f46e5&label=Followers&logo=github" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/bishal2623?style=flat-square&color=7c3aed&label=Stars&logo=github" />
+</p>
+
+---
+
+## About
+
+I am a second-year B.Tech student at IIT Jodhpur with a strong interest in software engineering, AI/ML, and full-stack development. I learn best by building — my projects are how I bridge the gap between coursework and real-world engineering.
+
+My current focus is on developing practical skills across the full software stack: designing clean REST APIs, working with relational databases, building responsive frontends, and exploring how machine learning can be applied to real problems. I take a structured approach to learning, working through concepts methodically and then applying them in projects I can share and iterate on.
+
+I am drawn to the intersection of **software engineering** and **applied AI** — not just as academic subjects, but as tools for building things that are genuinely useful. Every project I build teaches me something that a textbook cannot.
+
+**Open To:**&nbsp;
+`SDE Internships` &nbsp;`AI/ML Internships` &nbsp;`Research Opportunities` &nbsp;`Open Source Collaboration` &nbsp;`Hackathons`
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <strong>Languages</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c,bash&theme=dark&perline=7" />
+</p>
+
+<p align="center">
+  <strong>Frontend</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,figma&theme=dark&perline=7" />
+</p>
+
+<p align="center">
+  <strong>Backend & Databases</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgresql,mongodb,redis,sqlite&theme=dark&perline=7" />
+</p>
+
+<p align="center">
+  <strong>Cloud, DevOps & Tooling</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,nginx,vscode&theme=dark&perline=7" />
+</p>
+
+---
+
+## AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|--------|-------------|---------|
+| **Web Scraping & Data Extraction** | ████████░░ Advanced | BeautifulSoup, Selenium, background jobs, anti-bot handling |
+| **Machine Learning Core** | ██████░░░░ Intermediate | Supervised/unsupervised learning, feature engineering, scikit-learn |
+| **Natural Language Processing** | ██████░░░░ Intermediate | Text classification, embeddings, basic semantic search |
+| **LLM Applications** | ██████░░░░ Intermediate | Prompt engineering, Claude/OpenAI APIs, basic agentic patterns |
+| **Deep Learning** | █████░░░░░ Beginner–Intermediate | Neural network fundamentals, PyTorch basics, learning actively |
+| **Backend & REST APIs** | ███████░░░ Intermediate | FastAPI, PostgreSQL, SQLAlchemy, Alembic, JWT auth |
+| **Data Pipelines** | ██████░░░░ Intermediate | ETL concepts, ORM-based persistence, structured data storage |
+| **Agentic AI & RAG** | █████░░░░░ Exploring | MCP concepts, retrieval-augmented generation, tool-use patterns |
+
+</div>
+
+---
+
+## Featured Projects
+
+<details>
+<summary><strong>🔷 PricePulse — Full-Stack Price Tracking Application</strong></summary>
+
+<br/>
+
+**Problem:** Tracking product prices across Amazon and Flipkart manually is tedious. I wanted to build a tool that automates this — scraping prices on demand, storing history, and surfacing trends through a clean dashboard.
+
+**Solution:** A full-stack web application with a FastAPI backend that handles scraping, data persistence, and a REST API, paired with a React frontend for browsing products, viewing price trends, and managing scraping jobs. This was my most complete project to date — I built it end-to-end across multiple phases, learning something new at every layer.
+
+**What I learned:** How to design a relational schema and manage migrations, how to structure a FastAPI application with routers and background tasks, how Selenium-based scraping works under real-world anti-bot conditions, and how to connect a React frontend to a backend API with proper auth handling.
+
+<div align="center">
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | FastAPI · PostgreSQL · SQLAlchemy · Alembic · BeautifulSoup · Selenium · React · Vite · Tailwind CSS · Recharts · Axios |
+| **Scope** | Multi-platform scraper (Amazon + Flipkart) · Background job queue · Paginated product APIs |
+| **Engineering decisions** | Async background scraping to avoid blocking · Alembic for repeatable migrations · JWT auth for protected routes |
+| **Security** | JWT authentication · Hashed passwords · Protected routes · 401 auto-redirect handling |
+| **Learning outcomes** | Full-stack ownership, ORM design, scraper debugging, React state management, API integration |
+| **Repository** | [github.com/bishal2623](https://github.com/bishal2623) |
+
+</div>
+
+**Key implementation details:**
+- Backend built in four phases: schema design → scraper engine → REST API → auth layer
+- Scraper engine targets both Amazon and Flipkart with dedicated parsers; Flipkart required significant debugging due to dynamic rendering
+- Frontend built from scratch with Vite + Tailwind: custom component library (Button, Badge, Spinner, Skeleton), Sidebar/Topbar layout, and three pages — Products, Analytics, Scraper
+- Analytics page uses Recharts for price history time-series charts
+- Scraper page supports live job polling and run history
+
+</details>
 
 
 
-## 🏆 GitHub Trophies
+---
 
-![](https://github-profile-trophy.vercel.app/?username=bishal2623&theme=algolia&no-frame=true&no-bg=true&margin-w=8)
+## Experience
 
+<div align="center">
 
+### Independent Software Engineering Projects
+**Self-Directed · Full-Stack & AI Engineering**&nbsp;·&nbsp;*2024 — Present*
 
+</div>
 
-## 🔝 Top Contributed Repositories
+Engaged in a structured, production-focused software engineering practice — building complete, deployable systems independently using industry-standard toolchains and methodologies. Each project is treated as a real engineering engagement: requirements scoping, architectural decisions, phased implementation, debugging under production constraints, and iterative quality improvement.
 
-![](https://github-contributor-stats.vercel.app/api?username=bishal2623&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+- Designed and shipped PricePulse end-to-end: PostgreSQL schema design, SQLAlchemy ORM models, Alembic migration history, async scraper engine, JWT-secured REST API, and a React + Vite + Tailwind frontend
+- Engineered web scrapers for Amazon and Flipkart with anti-detection handling, Selenium automation, and structured data persistence
+- Built agentic AI workflows integrating Anthropic's Claude API with MCP tooling for developer automation
+- Delivered two custom frontend landing pages for IIT Bombay Techfest with bespoke visual identities
+- Maintained a systematic learning path spanning ML fundamentals, deep learning, and LLM engineering
 
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-0f0f23?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-0f0f23?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0f0f23?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-0f0f23?style=flat-square&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/LLM%20Engineering-0f0f23?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP%20Tooling-6d28d9?style=flat-square&logoColor=white" />
+</p>
 
+---
 
+## Achievements
 
+<div align="center">
+
+| Recognition | Details |
+|-------------|---------|
+| 🏛️ **IIT Bombay Techfest — Designer** | Delivered two full editions of official landing pages (2025 & 2026) for Asia's largest tech festival |
+| 🤖 **Claude Code Community — Invited Participant** | Selected for Claude Code meetup and Anthropic Impact Lab (Mumbai) focusing on agentic workflows and MCP |
+| 🔧 **Production-Grade Systems as Undergrad** | Shipped PricePulse — a full-stack AI product with JWT auth, scraper engine, and real-time React UI |
+| 📈 **Self-Directed Curriculum** | Completed structured 9–12 month AI/ML roadmap spanning math, ML core, deep learning, and LLM engineering |
+| 🌐 **Full Stack Fluency** | End-to-end ownership from PostgreSQL schema → FastAPI → React dashboard without external mentorship |
+
+</div>
+
+---
+
+## Certifications
+
+<p align="center"><strong>Amazon Web Services</strong></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Machine%20Learning%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+<p align="center"><strong>NPTEL / IIT</strong></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Python-6d28d9?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-4f46e5?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPTEL-Introduction%20to%20ML-7c3aed?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
+<p align="center"><strong>Cisco Networking Academy</strong></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Networking%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
+<p align="center"><strong>Oracle</strong></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle-Java%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
+---
+
+## Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/bishal2623">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/user/bishal2623">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Practitioner-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/bishal2623">
+    <img src="https://img.shields.io/badge/HackerRank-Certified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/bishal2623">
+    <img src="https://img.shields.io/badge/CodeChef-Competitive-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bishal2623&show_icons=true&theme=tokyonight&bg_color=0d0b1e&border_color=6d28d9&title_color=8b5cf6&icon_color=7c3aed&text_color=c4b5fd&hide_border=false&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Bishal's%20GitHub%20Stats" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bishal2623&theme=tokyonight&background=0d0b1e&border=6d28d9&ring=8b5cf6&fire=7c3aed&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=ffffff&sideNums=ffffff&dates=6d6a8a" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishal2623&theme=tokyonight&bg_color=0d0b1e&border_color=6d28d9&title_color=8b5cf6&text_color=c4b5fd&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages&hide_border=false" height="160" />
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bishal2623&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,PullRequest" />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bishal2623&bg_color=0d0b1e&color=8b5cf6&line=6d28d9&point=7c3aed&area=true&area_color=4f46e5&hide_border=false&border_color=6d28d9&custom_title=Contribution%20Graph%20%E2%80%94%20Bishal%20Dey" />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bishal2623/bishal2623/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
+</p>
+
+---
+
+## Current Focus
+
+```yaml
+learning:
+  - Deep learning architectures (transformers, attention mechanisms)
+  - Retrieval-Augmented Generation (RAG) system design
+  - MLOps: model serving, monitoring, and deployment pipelines
+  - System design for distributed, high-availability backends
+
+building:
+  - PricePulse: AI-powered e-commerce price intelligence (FastAPI + React)
+  - Agentic workflows using Anthropic Claude API + MCP tooling
+  - Open source developer tools for the AI/ML community
+
+exploring:
+  - LLM fine-tuning and prompt optimization patterns
+  - Vector databases and semantic search infrastructure
+  - Cloud-native architectures on AWS (ECS, Lambda, RDS)
+  - WebSockets and real-time full-stack data flows
+
+open_to:
+  - Software Engineering Internships (backend, full-stack, AI/ML)
+  - Open source collaboration on developer tooling or AI products
+  - Research assistant roles in NLP, LLM, or applied ML
+  - Hackathons, community projects, and technical writing
+```
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="mailto:bishal2623@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/bishaldey">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/bishal2623">
+    <img src="https://img.shields.io/badge/GitHub-0f0f23?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/bishal2623">
+    <img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>Engineering is not about writing code — it is about solving the right problems with the right systems, built to last.</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4f46e5,100:6d28d9&height=120&section=footer&animation=fadeIn" />
+</p>
