@@ -246,9 +246,8 @@ Engaged in a structured, production-focused software engineering practice — bu
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bishal2623&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,PullRequest" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bishal2623&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
-
 ---
 
 ## Contribution Activity
