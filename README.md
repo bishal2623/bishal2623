@@ -47,7 +47,7 @@ I am pursuing a B.Tech in Computer Engineering from Pimpri Chinchwad University 
 
 My current focus is on developing practical skills across the full software stack: designing clean REST APIs, working with relational databases, building responsive frontends, and exploring how machine learning can be applied to real problems. I take a structured approach to learning, working through concepts methodically and then applying them in projects I can share and iterate on.
 
-I am drawn to the intersection of **software engineering** and **applied AI** — not just as academic subjects, but as tools for building things that are genuinely useful. Every project I build teaches me something that a textbook cannot.
+I am drawn to the intersection of **software engineering** and **applied AI**  not just as academic subjects, but as tools for building things that are genuinely useful. Every project I build teaches me something that a textbook cannot.
 
 **Open To:**&nbsp;
 `SDE Internships` &nbsp;`AI/ML Internships` &nbsp;`Research Opportunities` &nbsp;`Open Source Collaboration` &nbsp;`Hackathons`
