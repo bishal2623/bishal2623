@@ -125,33 +125,6 @@ Designed and developed an editorial-style event landing page with interactive UI
 `HTML` `CSS` `JavaScript`
 
 
-## Experience
-
-<div align="center">
-
-### Independent Software Engineering Projects
-**Self-Directed · Full-Stack & AI Engineering**&nbsp;·&nbsp;*2024 — Present*
-
-</div>
-
-Engaged in a structured, production-focused software engineering practice — building complete, deployable systems independently using industry-standard toolchains and methodologies. Each project is treated as a real engineering engagement: requirements scoping, architectural decisions, phased implementation, debugging under production constraints, and iterative quality improvement.
-
-- Designed and shipped PricePulse end-to-end: PostgreSQL schema design, SQLAlchemy ORM models, Alembic migration history, async scraper engine, JWT-secured REST API, and a React + Vite + Tailwind frontend
-- Engineered web scrapers for Amazon and Flipkart with anti-detection handling, Selenium automation, and structured data persistence
-- Built agentic AI workflows integrating Anthropic's Claude API with MCP tooling for developer automation
-- Delivered two custom frontend landing pages for IIT Bombay Techfest with bespoke visual identities
-- Maintained a systematic learning path spanning ML fundamentals, deep learning, and LLM engineering
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-0f0f23?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-0f0f23?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0f0f23?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-0f0f23?style=flat-square&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/LLM%20Engineering-0f0f23?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP%20Tooling-6d28d9?style=flat-square&logoColor=white" />
-</p>
-
----
 
 ## Achievements
 
