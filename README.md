@@ -41,7 +41,7 @@
 
 ## About
 
-I am a second-year B.Tech student at IIT Jodhpur with a strong interest in software engineering, AI/ML, and full-stack development. I learn best by building — my projects are how I bridge the gap between coursework and real-world engineering.
+I am pursuing a B.Tech in Computer Engineering from Pimpri Chinchwad University (PCU) and a BS in Applied AI & Data Science from IIT Jodhpur. My interests lie in software engineering, AI/ML, and full-stack development. with a strong interest in software engineering, AI/ML, and full-stack development. I learn best by building — my projects are how I bridge the gap between coursework and real-world engineering.
 
 My current focus is on developing practical skills across the full software stack: designing clean REST APIs, working with relational databases, building responsive frontends, and exploring how machine learning can be applied to real problems. I take a structured approach to learning, working through concepts methodically and then applying them in projects I can share and iterate on.
 
