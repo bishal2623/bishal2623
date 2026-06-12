@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍%20IIT%20Jodhpur%2C%20Rajasthan%2C%20India-1e1b4b?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/📍%20Pune%2C%20Maharashtra%2C%20India-1e1b4b?style=flat-square&logoColor=white" />
 </p>
 
 <p align="center">
