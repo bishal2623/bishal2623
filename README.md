@@ -99,24 +99,32 @@ I am drawn to the intersection of **software engineering** and **applied AI** �
 ## 📂 Featured Projects
 
 ### ⚖️ LegiFlow
-AI-powered legal intelligence platform that simplifies complex legal documents, highlights risky clauses, provides ready-to-use agreements, and offers structured access to Indian legal resources.
+AI-powered legal intelligence platform that simplifies legal documents, highlights risky clauses, generates ready-to-use agreements, and provides structured access to Indian legal resources.
 
 `Next.js` `TypeScript` `Firebase` `AI`
 
 ---
 
+### 🧠 KindMind
+AI-powered mental wellness and productivity platform focused on personalized support, intelligent insights, and user-centric experiences.
+
+`React` `TypeScript` `AI` `Firebase`
+
+---
+
+### 🚀 Fixera
+Unified AI-powered workspace combining code intelligence, guided learning, and creative ideation into a single distraction-free environment.
+
+`TypeScript` `AI` `React` `Productivity`
+
+---
 
 ### 🎯 IIT Bombay Techfest 2026
 Designed and developed an editorial-style event landing page with interactive UI, responsive layouts, and modern frontend engineering practices.
 
 `HTML` `CSS` `JavaScript`
 
----
 
-### 🤖 Agentic AI Workflows
-Experimented with Claude API, MCP tooling, and agentic automation workflows to build AI-assisted developer productivity systems.
-
-`Python` `Claude API` `MCP` `AI Agents`
 ## Experience
 
 <div align="center">
