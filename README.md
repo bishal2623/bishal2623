@@ -181,20 +181,10 @@ Engaged in a structured, production-focused software engineering practice — bu
 ---
 
 ## Certifications
-
-<p align="center"><strong>Amazon Web Services</strong></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Machine%20Learning%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
-<p align="center"><strong>NPTEL / IIT</strong></p>
+<p align="center"><strong>IBM</strong></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Python-6d28d9?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-4f46e5?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPTEL-Introduction%20to%20ML-7c3aed?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM-Web%20Development%20Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
 <p align="center"><strong>Cisco Networking Academy</strong></p>
