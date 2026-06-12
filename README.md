@@ -258,14 +258,10 @@ Engaged in a structured, production-focused software engineering practice — bu
 </p>
 
 ---
-### 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bishal2623/bishal2623/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bishal2623/bishal2623/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/bishal2623/bishal2623/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/bishal2623/bishal2623/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 ## Current Focus
 
